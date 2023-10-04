@@ -1,0 +1,11 @@
+<svg id="ico_sns_kakao_40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_224" data-name="사각형 224" width="40" height="40" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_283" data-name="그룹 283" clip-path="url(#clip-path)">
+    <path id="패스_55" data-name="패스 55" d="M40,20A20,20,0,1,1,20,0,20,20,0,0,1,40,20" fill="#fee500"/>
+    <path id="패스_56" data-name="패스 56" d="M15,6.25c-5.243,0-9.493,3.3-9.493,7.369a7.094,7.094,0,0,0,4.148,6.089L8.6,23.573a.387.387,0,0,0,.281.471.381.381,0,0,0,.313-.055l4.622-3.06c.391.036.786.059,1.19.059,5.241,0,9.493-3.3,9.493-7.369S20.244,6.25,15,6.25" transform="translate(4.997 5.75)"/>
+  </g>
+</svg>
