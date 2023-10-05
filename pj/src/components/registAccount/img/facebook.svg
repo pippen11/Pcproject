@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_24" data-name="사각형 24" width="8.84" height="17.5" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="ico_sns_facebook_32" transform="translate(-1485 33)">
+    <circle id="타원_8" data-name="타원 8" cx="20" cy="20" r="20" transform="translate(1485 -33)" fill="#3a5ca9"/>
+    <g id="그룹_50" data-name="그룹 50" transform="translate(1501 -22)">
+      <g id="그룹_42" data-name="그룹 42" transform="translate(0)" clip-path="url(#clip-path)">
+        <path id="패스_16" data-name="패스 16" d="M.282,9.32H2.2v7.9a.282.282,0,0,0,.282.282H5.735a.282.282,0,0,0,.282-.282V9.358H8.223a.282.282,0,0,0,.28-.25L8.838,6.2a.282.282,0,0,0-.28-.315H6.018V4.063c0-.549.3-.828.879-.828H8.558a.282.282,0,0,0,.282-.282V.284A.282.282,0,0,0,8.558,0H6.269c-.016,0-.052,0-.1,0A4.386,4.386,0,0,0,3.3,1.081a3.008,3.008,0,0,0-1,2.673V5.886H.282A.282.282,0,0,0,0,6.168v2.87a.282.282,0,0,0,.282.282" transform="translate(0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
