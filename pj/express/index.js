@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 import cors from "cors";
 import session from "express-session";
 
-// import db, { sequelize } from "./models/index.js";
+import db from "./models/index.js";
 
 import routes from "./routes/index.js";
 dotenv.config();
@@ -43,14 +43,14 @@ app.use(
   })
 );
 
-// db.sequelize
-//   .sync({ force: false })
-//   .then(() => {
-//     console.log("db connected");
-//   })
-//   .catch((err) => {
-//     console.error(err);
-//   });
+db.sequelize
+  .sync({ force: false })
+  .then(() => {
+    console.log("db connected");
+  })
+  .catch((err) => {
+    console.error(err);
+  });
 
 app.use("/api", routes);
 
